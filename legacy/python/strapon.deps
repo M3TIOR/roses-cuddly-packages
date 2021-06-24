@@ -1,0 +1,6 @@
+# Import Shell Commands!
+sh
+# Semantic Versioning!
+semver
+# Contracts for input testing.
+dpcontracts
